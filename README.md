@@ -11,7 +11,7 @@
 <html>
   <head>
     <title>Hello, World!</title>
-    <link rel="stylesheet" href="styles.css" />
+      
     <style>
       .parent{
         width: 500px;
